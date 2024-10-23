@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<translation language="de">
+<phrase key="softwareId" value="Software-ID"/>
+<phrase key="transactionId" value="Transaktions-ID"/>
+<phrase key="totalWins" value="Gewinne gesamt"/>
+<phrase key="totalWager" value="Einsatz gesamt"/>
+<phrase key="outcomeLabel" value="Gewinnergebnis"/>
+<phrase key="baseGameTitle" value="Symbole"/>
+<phrase key="shellBonusTitle" value="Gewinnlinien"/>
+<phrase key="wheelBonusTitle" value="Gewinne"/>
+<phrase key="noWinLabel" value="Keine"/>
+<phrase key="totalMoves" value="Diamant"/>
+<phrase key="targetMoves" value="Roter Edelstein"/>
+<phrase key="row" value="Gelber Edelstein"/>
+<phrase key="turn" value="Grüner Edelstein"/>
+<phrase key="extraSpin" value="Blauer Edelstein"/>
+<phrase key="gemInstantWin" value="Lila Edelstein"/>
+<phrase key="bonusResult" value="Bonusergebnis"/>
+<phrase key="extra" value="Extra-Zug"/>
+<phrase key="winPrizeLabel" value="Gewinne"/>
+<phrase key="G" value="Flagge"/>
+<phrase key="H" value="Muschel"/>
+<phrase key="W" value="Wind"/>
+</translation>

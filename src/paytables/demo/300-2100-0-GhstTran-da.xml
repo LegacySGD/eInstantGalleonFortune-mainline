@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<translation language="da">
+<phrase key="softwareId" value=""/>
+<phrase key="transactionId" value=""/>
+<phrase key="totalWins" value=""/>
+<phrase key="totalWager" value=""/>
+<phrase key="outcomeLabel" value=""/>
+<phrase key="baseGameTitle" value=""/>
+<phrase key="shellBonusTitle" value=""/>
+<phrase key="wheelBonusTitle" value=""/>
+<phrase key="noWinLabel" value=""/>
+<phrase key="totalMoves" value=""/>
+<phrase key="targetMoves" value=""/>
+<phrase key="row" value=""/>
+<phrase key="turn" value=""/>
+<phrase key="extraSpin" value=""/>
+<phrase key="gemInstantWin" value=""/>
+<phrase key="bonusResult" value=""/>
+<phrase key="extra" value=""/>
+<phrase key="winPrizeLabel" value=""/>
+<phrase key="G" value=""/>
+<phrase key="H" value=""/>
+<phrase key="W" value=""/>
+</translation>

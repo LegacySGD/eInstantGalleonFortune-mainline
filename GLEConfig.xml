@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<family code="2137" desc="Lottery Game" organizationName="Interactive" studio="crdc">
+
+	<game name="Maritime Money COM" version="1.0.0" gameengineversion="2" gamelogicversion="1.0"
+		number="1" 
+		gametype="L" 
+		jackpotid="" 
+		loadprevstate="N" 
+		numberGenerator="RNG" 
+		spots=""
+		productId="1" 
+		gamegroup="eGames" 
+		betMultipliers="50,100,200,300,500,1000"
+		languages="en" 
+		skbPlatformVersion="1.4.0">
+
+		<!--<paymodel name="MaritimeMoney : 300-2137-101"
+			modelid="300-2137-101" 
+			revealId="2137" 
+			revealVersionId="2137"
+			cointhreshold="0" 
+			confidentlevelpct="95" 
+			fixedminmax="Y" 
+			hibethold="7" 
+			lobethold="7" 
+			hibetsd="13.34" 
+			lobetsd="14.36" 
+			maxcoins="1000" 
+			mincoins="0" 
+			maxmainbetwin="0" 
+			maxsidebetwin="0" />
+		<paymodelConfig clienttype="HTML" configcode="IXML" modelid="300-2137-101" />
+		<paymodelConfig clienttype="HTML" configcode="PHLP" modelid="300-2137-101" />
+
+		<paymodel name="MaritimeMoney : 300-2137-102"
+			modelid="300-2137-102" 
+			revealId="2137" 
+			revealVersionId="2137"
+			cointhreshold="0" 
+			confidentlevelpct="95" 
+			fixedminmax="Y" 
+			hibethold="11" 
+			lobethold="11" 
+			hibetsd="12.99" 
+			lobetsd="13.20" 
+			maxcoins="1000" 
+			mincoins="0" 
+			maxmainbetwin="0" 
+			maxsidebetwin="0" />
+		<paymodelConfig clienttype="HTML" configcode="IXML" modelid="300-2137-102" />
+		<paymodelConfig clienttype="HTML" configcode="PHLP" modelid="300-2137-102" />
+
+		<paymodel name="MaritimeMoney : 300-2137-103"
+			modelid="300-2137-103" 
+			revealId="2137" 
+			revealVersionId="2137"
+			cointhreshold="0" 
+			confidentlevelpct="95" 
+			fixedminmax="Y" 
+			hibethold="15" 
+			lobethold="15" 
+			hibetsd="12.97" 
+			lobetsd="13.19" 
+			maxcoins="1000" 
+			mincoins="0" 
+			maxmainbetwin="0" 
+			maxsidebetwin="0" /> -->
+		<!-- Customer Zero COM -->
+		<paymodel name="MaritimeMoney : 300-2137-199"
+			modelid="300-2137-199" 
+			revealId="2137" 
+			revealVersionId="2137"
+			cointhreshold="0" 
+			confidentlevelpct="95" 
+			fixedminmax="Y" 
+			hibethold="7" 
+			lobethold="7" 
+			hibetsd="13.34" 
+			lobetsd="14.36" 
+			maxcoins="1000" 
+			mincoins="0" 
+			maxmainbetwin="0" 
+			maxsidebetwin="0" />
+		<paymodelConfig clienttype="HTML" configcode="IXML" modelid="300-2137-199" />
+		<paymodelConfig clienttype="HTML" configcode="PHLP" modelid="300-2137-199" />
+
+		<denom currencycode="GBP" amount="0.01"/>
+		<denom currencycode="EUR" amount="0.01"/>
+		<denom currencycode="USD" amount="0.01,0.02"/>
+		<denom currencycode="CAD" amount="0.01,0.02"/>
+		<denom currencycode="FPY" amount="0.01,1.00"/>
+	</game>
+
+</family>

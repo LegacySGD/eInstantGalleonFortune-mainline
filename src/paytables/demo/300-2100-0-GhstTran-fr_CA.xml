@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<translation language="fr_CA">
+<phrase key="softwareId" value="ID du logiciel"/>
+<phrase key="transactionId" value="ID de transaction"/>
+<phrase key="totalWins" value="Gains totaux"/>
+<phrase key="totalWager" value="Mise totale"/>
+<phrase key="outcomeLabel" value="Résultats gagnants"/>
+<phrase key="baseGameTitle" value="Aucun"/>
+<phrase key="shellBonusTitle" value="Jeu principal"/>
+<phrase key="wheelBonusTitle" value="Boni Coquillage"/>
+<phrase key="noWinLabel" value="Jeu boni Wheel"/>
+<phrase key="totalMoves" value="Déplacements totaux"/>
+<phrase key="targetMoves" value="Déplacements ciblés"/>
+<phrase key="row" value="Rangée"/>
+<phrase key="turn" value="Ronde"/>
+<phrase key="extraSpin" value="Ronde(s) supplémentaire(s)"/>
+<phrase key="gemInstantWin" value="Gain instantané Drapeau"/>
+<phrase key="bonusResult" value="Résultat du boni"/>
+<phrase key="extra" value="Ronde supplémentaire"/>
+<phrase key="winPrizeLabel" value="Gains"/>
+<phrase key="G" value="Drapeau"/>
+<phrase key="H" value="Coquillage"/>
+<phrase key="W" value="Vent"/>
+</translation>
